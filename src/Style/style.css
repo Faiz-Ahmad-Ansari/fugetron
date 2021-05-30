@@ -1,0 +1,72 @@
+.topNav {
+  border-bottom: 1px solid gray;
+  height: 59px;
+}
+
+.topNav .task {
+  font-size: 28px;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-top: 3px;
+}
+
+.topNav .home {
+  font-size: 22px;
+  color: grey;
+  padding-right: 36px;
+  padding-top: 7px;
+}
+
+.tableHeader {
+  background-color: #4b0fdc;
+  color: #fff;
+}
+
+.btn-link {
+  color: #4b0fdc !important;
+  font-size: 24px !important;
+}
+
+.tableBorder {
+  border: 1px solid #c7c7c7;
+  -webkit-box-shadow: 1px 1px 2px #c7c7c7;
+          box-shadow: 1px 1px 2px #c7c7c7;
+}
+
+.searchBox {
+  padding: 25px 30px 0px 75px;
+}
+
+.btn-actions {
+  border-radius: 50px;
+  padding: 3px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.modal-body {
+  padding: 60px;
+  font-size: 20px;
+}
+
+.modal-footer {
+  border-top: 0 !important;
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+  padding-bottom: 60px;
+}
+
+.hasRequired {
+  background-color: #e2ffddb0 !important;
+  border-color: #6E66BB !important;
+}
+
+.hasError {
+  border-color: red !important;
+}
+
+.btn-record {
+  width: 100px;
+}
+/*# sourceMappingURL=style.css.map */

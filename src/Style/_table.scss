@@ -1,0 +1,37 @@
+
+.tableHeader{
+    background-color: #4b0fdc; 
+    color: #fff;
+}
+
+.btn-link{
+    color: #4b0fdc !important;
+    font-size: 24px !important;
+}
+
+.tableBorder{
+  border: 1px solid #c7c7c7;
+  box-shadow: 1px 1px 2px #c7c7c7;
+}
+
+.searchBox{
+    padding:25px 30px 0px 75px;
+}
+
+.btn-actions{
+    border-radius: 50px;
+    padding: 3px;
+    padding-right: 10px;
+    padding-left: 10px;       
+}
+
+.modal-body{
+    padding: 60px;
+    font-size: 20px;
+}
+
+.modal-footer{
+    border-top: 0 !important;
+    justify-content: center !important;
+    padding-bottom: 60px;
+}

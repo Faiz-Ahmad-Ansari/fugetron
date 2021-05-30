@@ -1,0 +1,18 @@
+
+.topNav{
+    border-bottom: 1px solid gray;
+    height: 59px;
+
+    .task{
+        font-size: 28px;
+        font-weight: bold;
+        padding-left: 10px;
+        padding-top: 3px;
+    }
+    .home{
+        font-size: 22px;
+        color: grey;
+        padding-right: 36px;
+        padding-top: 7px;
+    }
+}
